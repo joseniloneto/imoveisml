@@ -6,7 +6,7 @@ As bases de dados utilizadas para treinamento e teste dos algoritmos são híbri
 
 Os _scripts_ foram implementados no Google Colaboratory (Colab) em linguagem de programação _Python_ e estão organizados da seguinte forma:
 
-0. Enriquecimento das bases de dados com quantitativos de equipamentos urbanos e de estabelecimentos comerciais em raio de 400 metros de cada imóvel por meio de API Google Places Nearby Search. (DISPONÍVEL)
+0. Enriquecimento das bases de dados com quantitativos de equipamentos urbanos e de estabelecimentos comerciais em raio de 400 metros de cada imóvel por meio de API Google Places Nearby Search. (arquivo "0_requisicoes_GCP.ipynb")
 1. Análise gráfica e seleção de atributos. (A SER DISPONIBILIZADO)
 2. Abordagens com eliminação de _outliers_ e com transformação de variáveis. (A SER DISPONIBILIZADO)
 3. Modelos urbanos de regressão linear múltipla (OLS) e espacial (S2SLS). (A SER DISPONIBILIZADO)
