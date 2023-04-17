@@ -13,4 +13,4 @@ Os _scripts_ foram implementados no Google Colaboratory (Colab) em linguagem de 
 4. Modelos urbanos lineares de aprendizagem de máquina (_SGDRegressor_). (arquivo "4_sgdregressor.ipynb")
 5. Modelos de rede neural artificial não linear (_MLPRegressor_). (arquivo "5_mlpregressor.ipynb")
 6. Modelos _ensemble_ não lineares (_XGBRegressor_). (arquivo "6_xgbregressor.ipynb")
-7. Modelos rurais de regressão linear múltipla (OLS) e espacial (S2SLS). (A SER DISPONIBILIZADO)  
+7. Modelos rurais de regressão linear múltipla (OLS) e espacial (S2SLS). (arquivo "7_ols_s2sls_rurais.ipynb")  
