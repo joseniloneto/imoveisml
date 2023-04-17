@@ -2,7 +2,7 @@
 
 Algoritmos lineares e não lineares de aprendizagem de máquina para estimar valores de imóveis de maneira interpretável.
 
-As bases de dados utilizadas para treinamento e teste dos algoritmos são híbridas e contêm atributos de imóveis da União avaliados e homologados pelo Exército Brasileiro (EB) e pela Secretaria do patrimônio da União (SPU) de acordo com os critérios da NBR 14653 e da Instrução Normativa (IN) vigente. Elas são de acesso restrito; não se encontram, portanto, disponíveis neste repositório.
+As bases de dados utilizadas para treinamento e teste dos algoritmos são híbridas e contêm atributos de imóveis da União avaliados e homologados pelo Exército Brasileiro (EB) e pela Secretaria do Patrimônio da União (SPU) de acordo com os critérios da NBR 14653 e da Instrução Normativa (IN) vigente. Elas são de acesso restrito; não se encontram, portanto, disponíveis neste repositório.
 
 Os _scripts_ foram implementados no Google Colaboratory (Colab) em linguagem de programação _Python_ e estão organizados da seguinte forma:
 
